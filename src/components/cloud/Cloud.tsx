@@ -7,7 +7,7 @@ function CloudComponent() {
       <div className='x1'>
         <div className='cloud'>
           <p className='text'>
-            The older we get, the less we argue and the more we hang out
+            I can see The Lion Sleeps Tonight in the tears you're crying
           </p>
         </div>
       </div>
