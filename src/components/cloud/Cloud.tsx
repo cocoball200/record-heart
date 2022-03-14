@@ -13,15 +13,15 @@ function CloudComponent() {
       </div>
 
       <div className='x2'>
-        <div className='cloud'></div>
+        <div className='cloud' />
       </div>
 
       <div className='x3'>
-        <div className='cloud'></div>
+        <div className='cloud' />
       </div>
 
       <div className='x4'>
-        <div className='cloud'></div>
+        <div className='cloud' />
       </div>
 
       <div className='x5'>
