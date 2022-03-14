@@ -7,7 +7,7 @@ function CloudComponent() {
       <div className='x1'>
         <div className='cloud'>
           <p className='text'>
-            I can see The Lion Sleeps Tonight in the tears you're crying
+            I can see The Lion Sleeps Tonight in the tears you are crying
           </p>
         </div>
       </div>
