@@ -1,6 +1,7 @@
 import * as React from 'react';
 
 import Layout from '@/components/layout/Layout';
+import Cloud from '@/components/cloud/Cloud';
 import ArrowLink from '@/components/links/ArrowLink';
 import ButtonLink from '@/components/links/ButtonLink';
 import UnderlineLink from '@/components/links/UnderlineLink';
@@ -13,8 +14,7 @@ export default function HomePage() {
     <Layout>
       {/* <Seo templateTitle='Home' /> */}
       <Seo />
-
-      <main>Let's record sentence !</main>
+      <Cloud />
     </Layout>
   );
 }
