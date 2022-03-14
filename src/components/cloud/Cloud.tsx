@@ -5,7 +5,11 @@ function CloudComponent() {
   return (
     <Cloud id='background-wrap' className='bg-pink'>
       <div className='x1'>
-        <div className='cloud'></div>
+        <div className='cloud'>
+          <p className='text'>
+            The older we get, the less we argue and the more we hang out
+          </p>
+        </div>
       </div>
 
       <div className='x2'>
@@ -38,6 +42,13 @@ const Cloud = styled.div`
   top: 0;
   z-index: -1;
 
+  .text {
+    width: 60%;
+    height: 50%;
+    margin: 0 auto;
+    font-size: 14px;
+    font-style: oblique;
+  }
   /* KEYFRAMES */
 
   @-webkit-keyframes animateCloud {
