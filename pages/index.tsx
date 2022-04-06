@@ -7,7 +7,6 @@ import ButtonLink from '@/components/links/ButtonLink';
 import UnderlineLink from '@/components/links/UnderlineLink';
 import UnstyledLink from '@/components/links/UnstyledLink';
 import Seo from '@/components/Seo';
-import Vercel from '~/svg/Vercel.svg';
 
 export default function HomePage() {
   return (
